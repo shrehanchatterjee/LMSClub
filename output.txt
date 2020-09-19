@@ -1,0 +1,11 @@
+Which day would you like the schedule for?Monday
+Schedule for Monday
+Day           Time.         Subject
+Monday   10:00 - 11:00 AM    Period 1
+         11:30-12:30 AM.     Math
+
+
+Schedule for Tuesday
+Day           Time.         Subject
+Tuesday     9:00-11:00 AM     PE
+            10:00-11:00 AM.   Science
