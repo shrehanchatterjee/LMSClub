@@ -1,0 +1,16 @@
+day=input("Which day would you like the schedule for?")
+header = "Day           Time.         Subject"
+mondayschedule = """Monday   10:00 - 11:00 AM    Period 1
+        11:30-12:30 AM.     Math"""
+tuesdayschedule = """Tuesday     9:00-11:00 AM     PE
+           10:00-11:00 AM.   Science"""
+print("Schedule for", day)
+print(header)
+if day == "Monday":
+ print(mondayschedule)
+elif day == "Tuesday":
+ print(tuesdayschedule)
+else:
+print("We only have the schedule for Monday and Tuesday.")
+ 
+ 
